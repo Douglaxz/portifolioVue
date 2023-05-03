@@ -1,0 +1,17 @@
+cabeçalho
+- aparecerá em todas as paginas 
+
+seção história
+- contar história do nosso grande herói chamado douglas
+
+seção empregos
+- contar das experiencias
+
+seção hobbies
+- falar sobre videogames
+
+seção familia
+- falar sobre a fran e os gatos
+
+seção conhecimento
+- falar sobre as linguagens de programação
