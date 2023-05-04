@@ -12,27 +12,27 @@
     <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-        <img src="@/assets/familia1.jpeg" height="600">
+        <img src="@/assets/familia1.jpeg" height="600" class="imgCarrosel">
         <br>
         Ricardo (irmão) | eu mesmo | Dr. Amaral (Pai)
     </div>
     <div class="carousel-item" data-bs-interval="10000">
-        <img src="@/assets/familia2.jpeg" height="600">
+        <img src="@/assets/familia2.jpeg" height="600" class="imgCarrosel">
         <br>
         Ricardo (irmão) | Maria Amaral (Mãe) | eu mesmo      
     </div>
     <div class="carousel-item">
-        <img src="@/assets/casamento1.jpeg" height="600">
+        <img src="@/assets/casamento1.jpeg" height="600" class="imgCarrosel">
         <br>
         Francieli | eu mesmo          
     </div>
     <div class="carousel-item">
-        <img src="@/assets/lila.jpg" height="600">
+        <img src="@/assets/lila.jpg" height="600" class="imgCarrosel">
         <br>
         Lila (gata)           
     </div> 
     <div class="carousel-item">
-        <img src="@/assets/melvim.jpeg" height="600">
+        <img src="@/assets/melvim.jpeg" height="600" class="imgCarrosel">
         <br>
         Melvm (gato)             
     </div>     

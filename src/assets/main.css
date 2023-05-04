@@ -124,4 +124,9 @@ table{
     padding-top: 2vh;
   }
 
+  .imgCarrosel{
+    width: 100vw;
+    height: auto;
+  }
+
   }

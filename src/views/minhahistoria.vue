@@ -12,28 +12,28 @@
     <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
-            <img src="@/assets/primeira.jpg" height="600">
+            <img src="@/assets/primeira.jpg" height="600" class="imgCarrosel">
             <br>
             Eu, em 1680, Luxemburgo
         </div>
         <div class="carousel-item">
-            <img src="@/assets/eua.jpeg" height="600">
+            <img src="@/assets/eua.jpeg" height="600" class="imgCarrosel">
             <br>
             Trabalhando de modelo nos Estados Unidos para não ser deportado        
         </div>
         <div class="carousel-item">
-            <img src="@/assets/eua2.jpeg" height="600">
+            <img src="@/assets/eua2.jpeg" height="600" class="imgCarrosel">
             <br>
             Não deu certo, me pegaram
         </div>
         <div class="carousel-item">
-            <img src="@/assets/rock2.jpeg" height="600">
+            <img src="@/assets/rock2.jpeg" height="600" class="imgCarrosel">
             <br>
             Fingindo ser rockeiro
         </div> 
         
         <div class="carousel-item" data-bs-interval="10000">
-            <img src="@/assets/academia.jpeg" height="600">
+            <img src="@/assets/academia.jpeg" height="600" class="imgCarrosel">
             <br>
             Na academia, tentando se machucar para parar de fazer exercício
         </div>              
