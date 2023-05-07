@@ -55,7 +55,7 @@ Para começar, verifique a instalação dos seguintes itens:
 - Versão: 1.0
 
 ## :paperclips: Autor:
-- Douglas Amaral 1
+- Douglas Amaral
 
 ## :black_nib: Licença:
 - Este projeto está sob a licença educacional
