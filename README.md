@@ -11,11 +11,11 @@ Este é meu primeiro projeto utilizando o framework vue
 
 npm install
 
-### :car: Rodando o projeto
+## :car: Rodando o projeto
 
 npm run dev
 
-### :triangular_flag_on_post: Compilando o projeto
+## :triangular_flag_on_post: Compilando o projeto
 
 npm run build
 
