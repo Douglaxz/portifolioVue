@@ -9,19 +9,14 @@ Este é meu primeiro projeto utilizando o framework vue
 
 ## Project Setup
 
-```sh
 npm install
-```
 
 ### Rodando o projeto
 
-```sh
 npm run dev
-```
 
 ### Compilando o projeto
 
-```sh
 npm run build
 
 ## :wrench: Pré-requisitos e instalações:
@@ -47,16 +42,12 @@ Para começar, verifique a instalação dos seguintes itens:
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-
-
-
 ## :memo: Checklist de funcionalidades - TODO LIST
 - [X] Funcionalidade pagina incial
 - [X] Funcionalidade pagina familia
 - [X] Funcionalidade pagina empregos
 - [X] Funcionalidade pagina linguagens
 - [X] Funcionalidade pagina hobbies
-
 
 ## :paperclips: Colaborando:
 -vazio
