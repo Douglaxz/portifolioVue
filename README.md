@@ -7,15 +7,15 @@ Este é meu primeiro projeto utilizando o framework vue
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Project Setup
+## :mag_right: Project Setup
 
 npm install
 
-### Rodando o projeto
+### :car: Rodando o projeto
 
 npm run dev
 
-### Compilando o projeto
+### :triangular_flag_on_post: Compilando o projeto
 
 npm run build
 
@@ -30,7 +30,6 @@ Para começar, verifique a instalação dos seguintes itens:
 
 ## :hammer_and_wrench: Construído com:
 - VsCode
-- Mysql WorkBench
 - GIMP (Para edição de imagens)
 
 ## :man_technologist: Tecnologias utilizadas:
