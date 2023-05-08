@@ -48,6 +48,11 @@ Para começar, verifique a instalação dos seguintes itens:
 - [X] Funcionalidade pagina linguagens
 - [X] Funcionalidade pagina hobbies
 
+## :memo: Checklist de funcionalidades - PARA FAZER
+  - [ ]Nova seção projetos github (vou o link dos vídeos)
+  - [ ]Nova seção com formulario de contato (não precisa enviar)
+  - [ ]Colocar na seção hobbies o logos da marvel / dc 
+
 ## :paperclips: Colaborando:
 -vazio
 
