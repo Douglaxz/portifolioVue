@@ -38,8 +38,14 @@ const router = createRouter({
       path: '/treinamentoDiv',
       name: 'treinamentoDiv',
       component: treinamentoDiv
-    }
-    
+    },
+   /*  {
+      path: '/contato',
+      name: 'contato',
+      component: contato
+    } */
+
+
   ]
 })
 

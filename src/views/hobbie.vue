@@ -28,8 +28,15 @@
         <div class="divConhecimentoCelula">
             <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" height="50" width="300">
         </div>
-        <div class="divConhecimentoCelula">
+        <div class="divHobbies">
             <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" height="50" width="300">
-        </div>        
+        </div>
+        <div class="divHobbies">
+            <img src="../assets/dc-comics-logo2.png" height="50" width="300">
+        </div>
+        <div class="divHobbies">
+            <img src="../assets/marvel-logo.png" height="80" width="300">
+        </div> 
+                    
     </div>    
 </template>
