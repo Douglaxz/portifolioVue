@@ -7,7 +7,7 @@ import conhecimento from './views/conhecimento.vue';
 import hobbie from './views/hobbie.vue';
 import treinamentoDiv from './views/treinamentoDiv.vue';
 import 'bootstrap/dist/css/bootstrap.css';
-import contato from './views/contato.vue'
+import contatos from './views/contatos.vue'
 
 export default{
   components: {
@@ -17,7 +17,7 @@ export default{
     conhecimento,
     hobbie,
     treinamentoDiv,
-    contato
+    contatos
   }
 }
 </script>
@@ -32,10 +32,10 @@ export default{
           <RouterLink to="/conhecimento"><i class="bi bi-award"></i> Conhecimentos</RouterLink>  | 
           <RouterLink to="/hobbie"><i class="bi bi-joystick"></i> Hobbies</RouterLink> | 
           <RouterLink to="/treinamentoDiv"><i class="bi bi-arrows-movebi bi-person-workspace"></i> Projetos</RouterLink> |
-          <RouterLInk to="/contato"><i class="bi bi-person-lines-fill"></i> Contatos</RouterLInk>
+          <RouterLink to="/contatos"><i class="bi bi-person-lines-fill"></i> Contatos</RouterLink>
 
         </nav>
-      </div>
+      </div>  
   </header>
   
   <main>

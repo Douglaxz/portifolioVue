@@ -5,6 +5,7 @@ import emprego from '../views/emprego.vue'
 import hobbie from '../views/hobbie.vue'
 import conhecimento from '../views/conhecimento.vue'
 import treinamentoDiv from '../views/treinamentoDiv.vue'
+import contatos from '../views/contatos.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -39,11 +40,12 @@ const router = createRouter({
       name: 'treinamentoDiv',
       component: treinamentoDiv
     },
-   /*  {
-      path: '/contato',
-      name: 'contato',
-      component: contato
-    } */
+    {
+
+      path: '/contatos',
+      name: 'contatos',
+      component: contatos
+    }
 
 
   ]
